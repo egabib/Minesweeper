@@ -1,1 +1,2 @@
-"Hello!"."Here your free reward. Thanks for playing!".flag.MailboxFlag
+"We need your help!"."Recently, Untitled Minesweeper got hated on TikTok, and rating of the game dropped. If we raise the rating to 90% you all get FREE COOL REWARDS!"
+"Free mail reward"."Get your FREE mailbox flag! Thanks for playing".flag.MailboxFlag
