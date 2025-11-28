@@ -1,1 +1,1 @@
-"Hello!"."Here your free reward. Thanks for playing!".flag.minibob
+"Hello!"."Here your free reward. Thanks for playing!".wins.10
