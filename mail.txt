@@ -1,3 +1,3 @@
-"New developer"."Welcome the new developer - NikkiTT. He gonna animate emotes and build map"
+"Free NAREZANY FLAG FOR RELEASE!"."Get your FREE NAREZANY flag! Thanks for playing in release!".flag.PartyNarezany
 "We need your help!"."Recently, Untitled Minesweeper got hated on TikTok, and rating of the game dropped. If we raise the rating to 90% you all get FREE COOL REWARDS!"
 "Free mail reward"."Get your FREE mailbox flag! Thanks for playing".flag.MailboxFlag
