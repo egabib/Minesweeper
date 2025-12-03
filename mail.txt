@@ -1,5 +1,5 @@
+"A free gift for all latecomers!"."Get free 300 Candies right here:3".candies.300
 "Free Tetoris emote from Release abuse"."Get free tetoris emote from release abuse! ".emote.Tetoris
 "Free Candies from Release abuse"."Get free 60 candies from release abuse! ".candies.60
 "Free NAREZANY FLAG FOR RELEASE!"."Get your FREE NAREZANY flag! Thanks for playing in release!".flag.PartyNarezany
-"We need your help!"."Recently, Untitled Minesweeper got hated on TikTok, and rating of the game dropped. If we raise the rating to 90% you all get FREE COOL REWARDS!"
 "Free mail reward"."Get your FREE mailbox flag! Thanks for playing".flag.MailboxFlag
