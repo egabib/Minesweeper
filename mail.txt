@@ -1,5 +1,5 @@
+"Free NAREZANY FEET FLAG!"."FEETS".flag.feetflag
 "A free gift for all latecomers!"."Get free 300 Candies right here:3".candies.300
 "Free Tetoris emote from Release abuse"."Get free tetoris emote from release abuse! ".emote.Tetoris
 "Free Candies from Release abuse"."Get free 60 candies from release abuse! ".candies.60
-"Free NAREZANY FLAG FOR RELEASE!"."Get your FREE NAREZANY flag! Thanks for playing in release!".flag.PartyNarezany
 "Free mail reward"."Get your FREE mailbox flag! Thanks for playing".flag.MailboxFlag
